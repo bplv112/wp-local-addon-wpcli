@@ -16,6 +16,9 @@ Clone the repository into the following directory depending on your platform:
 ### Install Dependencies
 1. `yarn install`
 
+## Build
+1. `yarn build` or `yarn watch`
+
 ## Development
 
 ### Folder Structure
