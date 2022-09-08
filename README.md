@@ -5,7 +5,7 @@
 
 Clone the repository into the following directory depending on your platform:
 
-- macOS: `~/Library/Application Support/Local by Flywheel/addons`
+- macOS: `~/Library/Application Support/Local/addons`
 
 
 ### Enable Global Cli
