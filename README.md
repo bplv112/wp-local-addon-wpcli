@@ -1,4 +1,4 @@
-# Local Enable Cli From Terminal (without ssh) •
+# Enable Cli From Terminal (without ssh) •
 ## Installation
 
 ### Clone
